@@ -1,0 +1,19 @@
+ .screen-image{
+    width: 100%;
+    
+  }
+  .screen-image__poster{
+    width: 100%;
+   
+  }
+  .form{
+    padding: 10px 10px 10px 0;
+    display: flex;
+  }
+
+  .button__post{
+    width: 100px;
+    margin-left: 10px;
+    border: none;
+    background: rgb(206, 106, 29);
+  }

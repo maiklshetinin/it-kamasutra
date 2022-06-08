@@ -1,0 +1,12 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.users {
+    grid-column-start: 1;
+}
+
+.messages {
+    grid-column-start: 2;
+}
